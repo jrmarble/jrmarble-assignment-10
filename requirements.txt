@@ -1,0 +1,9 @@
+flask            # Web framework
+numpy            # Numerical computations
+scikit-learn     # For PCA
+scipy            # Scientific computations
+matplotlib       # Visualization
+pillow           # Image processing (PIL)
+open-clip-torch  # CLIP model implementation
+torch            # PyTorch for deep learning
+pandas           # Data manipulation
